@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA NeedIt Application - New Tab">936a50842f172010af682ea62799b690</canvas_page>
+        <name>NeedIt Application - New Tab</name>
+        <page display_value="PA NeedIt Application - New Tab">576ad8c02f172010af682ea62799b6db</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-29 18:40:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b6a50842f172010af682ea62799b692</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_597142_wish_list">f29c80f62f472010af682ea62799b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">f29c80f62f472010af682ea62799b608</sys_scope>
+        <sys_update_name>pa_tabs_1b6a50842f172010af682ea62799b692</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-29 18:40:17</sys_updated_on>
+    </pa_tabs>
+</record_update>
